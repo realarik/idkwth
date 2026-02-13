@@ -27,7 +27,6 @@ const slides = [
   },
   {
     src: "/images/7908f38f38699e445.jpg",
-    caption: "Yay!! I'm so happy you said yes 🥹💖",
     caption: "Happy Valentine's Day, baby!!💖",
   },
 ];
